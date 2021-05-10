@@ -34,4 +34,3 @@ tags: About me
 #### Programming Language  
   * Skilled : Java, R, Python, C, SQL
   * Ever used : JSP, Node.js 
-
