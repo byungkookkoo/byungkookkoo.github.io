@@ -53,8 +53,8 @@ $darken-3: rgba(#000,.25) !default;
 $darken-4: rgba(#000,.5) !default;
 
 // Links
-$link-color: #070; 
-$link-hover-color: darken($green, 40%);
+$link-color: $orange; 
+$link-hover-color: darken($orange, 40%);
 
 // Breakpoints
 $breakpoint-md: '(min-width: 52em)';
@@ -123,7 +123,7 @@ $nav-color: $mid-gray;
 $nav-link-color: #444;
 $nav-padding: $space-2;
 $nav-link-padding-x: $space-2;
-$nav-link-border-bottom: 2px solid #090;
+$nav-link-border-bottom: 2px solid $orange;
 $nav-active-border-bottom: 1px solid $light-gray;
 
 // Footer

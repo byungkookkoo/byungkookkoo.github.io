@@ -2,13 +2,12 @@
 title:       Navy.dev
 subtitle:    Byung-kook Koo, since 2021.05
 email:       byunguki@kyonggi.ac.kr
-author:      John Otander
-description: "A simple, beautiful theme for Jekyll that emphasizes content rather than aesthetic fluff."
+author:      BK
+description: "blog for me"
 baseurl:     ""
-url:         "https://byungkookkoo.github.io"
+url:         "https://byungkookkoo.github.io/bio/"
 date_format: "%b %-d, %Y"
 header_pages:
- - about.md
  - bio.md
 
 # Google services
@@ -127,6 +126,4 @@ exclude:
   - Gemfile
   - Gemfile.lock
   - Rakefile
-  - README.md
-  - screenshot.png
   - vendor
