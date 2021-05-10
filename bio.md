@@ -10,12 +10,12 @@ tags: About me
 
 ## Projects
 ### School Projects
-  * [Wargame_cmd](https://github.com/byungkookkoo/wargame_cmd){:target="_blank"}
-  * [Simple blog](https://github.com/byungkookkoo/wargame_cmd){:target="_blank"}
-  * [Shopping mall DB](https://github.com/byungkookkoo/wargame_cmd){:target="_blank"}
-  * [Simple Messanger](https://github.com/byungkookkoo/wargame_cmd){:target="_blank"}
-  * [Solving Atari breakout using DQN](https://github.com/byungkookkoo/wargame_cmd){:target="_blank"}
-  * [Capstone Project(졸업 작품)](https://github.com/byungkookkoo/wargame_cmd){:target="_blank"}
+  * [Wargame cmd](https://github.com/byungkookkoo/wargame_cmd){:target="_blank"}
+  * [Simple blog](https://github.com/byungkookkoo/simple_blog){:target="_blank"}
+  * [Shopping mall DB](https://github.com/byungkookkoo/shopping_mall-DB){:target="_blank"}
+  * [JBM: Java Based Messenger](https://github.com/byungkookkoo/java_based_messenger){:target="_blank"}
+  * [Solving Atari breakout using DQN](https://github.com/byungkookkoo/atari_breakout_dqn){:target="_blank"}
+  * [Capstone Project(졸업 작품, 진행중)](https://github.com/byungkookkoo/Capstone-Backend){:target="_blank"}
   * [Developing...](#)
 
 ### Lab Projects
