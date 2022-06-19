@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://byungkookkoo.github.io/sitemap/sitemap-index.xml
+Host: https://byungkookkoo.github.io
