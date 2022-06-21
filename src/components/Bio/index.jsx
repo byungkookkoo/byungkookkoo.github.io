@@ -36,6 +36,9 @@ const Profile = styled.div`
   background-image: url(${profileImageRoot}/profile.png);
   background-size: cover;
   background-position: center;
+  &:hover {
+    opacity: 0.5;
+  }
 `
 
 const Author = styled.div`
@@ -83,11 +86,13 @@ const Link = ({ link, children }) => {
 }
 
 const Bio = () => {
-  const { github, kaggle, instagram, facebook, linkedIn, email, etc } = links
+  const { github, kaggle, instagram, facebook, linkedIn, email, etc, about} = links
 
   return (
     <BioWrapper id="bio">
-      <Profile />
+      <Link link={about}>
+        <Profile/>
+      </Link>
       <div>
         <Author>@{author}</Author>
         <Description>{description}</Description>
